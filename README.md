@@ -9,6 +9,6 @@ O projeto foi realizado com base nas aulas de HTML, CSS e Javascript, ministrada
 
 
 ## Usando a aplicação
-Veja o projeto online [clique aqui]()
+Veja o projeto online [clique aqui](https://rafaelgonzagalandingpage.netlify.app/)
 
 ### Rafael Gonzaga
